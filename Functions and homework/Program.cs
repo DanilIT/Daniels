@@ -7,6 +7,7 @@ namespace Functions_and_homework
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
